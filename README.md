@@ -1,7 +1,7 @@
 ### Olá, eu sou o Jeferson Chagas Silva ✌
 
 - 🔭 Atualmente trabalho com PHP [Laravel e Yii2], Javascript, JQuery, [Html/Css/Boostrap]
-- 🌱 Estudando: Javascript e JQuery
+- 🌱 Estudando: Javascript
 - 😎 Hobby: Carros
 - 😍 Torcedor: <img align="center" alt="santos-fc" height="80" width="90" src="https://iconape.com/wp-content/files/ph/331884/svg/331884.svg">
 <hr>
